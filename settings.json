@@ -1,0 +1,81 @@
+{
+    "workbench.editor.showTabs": false,
+    "workbench.colorTheme": "Tokyo Night",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "glassit.alpha": 255,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "workbench.colorCustomizations": {
+        "[Material Theme Ocean]": {
+            "activityBarBadge.background": "#388E3C",
+            "activityBar.activeBorder": "#388E3C",
+            "list.activeSelectionForeground": "#388E3C",
+            "list.inactiveSelectionForeground": "#388E3C",
+            "list.highlightForeground": "#388E3C",
+            "scrollbarSlider.activeBackground": "#388E3C50",
+            "editorSuggestWidget.highlightForeground": "#388E3C",
+            "textLink.foreground": "#388E3C",
+            "progressBar.background": "#388E3C",
+            "pickerGroup.foreground": "#388E3C",
+            "tab.activeBorder": "#388E3C",
+            "notificationLink.foreground": "#388E3C",
+            "editorWidget.resizeBorder": "#388E3C",
+            "editorWidget.border": "#388E3C",
+            "settings.modifiedItemIndicator": "#388E3C",
+            "settings.headerForeground": "#388E3C",
+            "panelTitle.activeBorder": "#388E3C",
+            "breadcrumb.activeSelectionForeground": "#388E3C",
+            "menu.selectionForeground": "#388E3C",
+            "menubar.selectionForeground": "#388E3C",
+            "editor.findMatchBorder": "#388E3C",
+            "selection.background": "#388E3C40",
+            "statusBarItem.remoteBackground": "#388E3C"
+        }
+    },
+    "materialTheme.accent": "Breaking Bad",
+    // "editor.fontFamily": "'Consolas', 'Courier New', monospace, ",
+    "editor.fontFamily": "'CaskaydiaCove Nerd Font'",
+    "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font'",
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.fontSize": 12,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "background.useDefault": false,
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "compact",
+    "background.opacity": 0.8,
+    "background.filepath": "c:\\Users\\aidenmay\\Pictures\\1085642.jpg",
+    "editor.formatOnSave": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -1,
+}
